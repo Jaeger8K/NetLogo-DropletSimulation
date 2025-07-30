@@ -59,11 +59,11 @@ Humidity Threshold	A droplet is triggered when humidity ≥ 50
 ---
 
 ## 📁 File Structure
-bash
-Copy
-Edit
+
 NetLogo-DropletSimulation/
-├── droplet-simulation.nlogo     # NetLogo model file
+
+├── droplet-simulation.nlogo # NetLogo model file
+
 ├── README.md
 
 ---
