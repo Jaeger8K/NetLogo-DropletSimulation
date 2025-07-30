@@ -65,8 +65,6 @@ Edit
 NetLogo-DropletSimulation/
 ├── droplet-simulation.nlogo     # NetLogo model file
 ├── README.md
-└── images/
-    └── simulation_screenshot.png
 
 ---
     
